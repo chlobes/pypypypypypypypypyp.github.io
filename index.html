@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-		<style>
+		<style type="text/css">
 			body {
 				position: absolute;
 				top: 0;
@@ -18,8 +18,8 @@
     <title>reactor WIP</title>
   </head>
   <body>
-		<canvas id="reactor-canvas"></canvas>
-		<button id="ignite">🔴</button>
+		<canvas id="reactor-canvas" style="z-index:1"></canvas>
+		<button id="ignite" style="z-index:2; position:relative; top:-155px; left:150">🔴</button>
 		<button id="fuel-valve"></button>
     <script src="./bootstrap.js"></script>
   </body>
