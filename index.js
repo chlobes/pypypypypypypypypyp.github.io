@@ -130,107 +130,107 @@
 /******/ 					"__widl_f_movement_y_MouseEvent": function(p0i32) {
 /******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_movement_y_MouseEvent"](p0i32);
 /******/ 					},
-/******/ 					"__widl_instanceof_WebGL2RenderingContext": function(p0i32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_instanceof_WebGL2RenderingContext"](p0i32);
+/******/ 					"__widl_instanceof_WebGLRenderingContext": function(p0i32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_instanceof_WebGLRenderingContext"](p0i32);
 /******/ 					},
-/******/ 					"__widl_f_buffer_data_with_array_buffer_view_WebGL2RenderingContext": function(p0i32,p1i32,p2i32,p3i32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_buffer_data_with_array_buffer_view_WebGL2RenderingContext"](p0i32,p1i32,p2i32,p3i32);
+/******/ 					"__widl_f_buffer_data_with_array_buffer_view_WebGLRenderingContext": function(p0i32,p1i32,p2i32,p3i32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_buffer_data_with_array_buffer_view_WebGLRenderingContext"](p0i32,p1i32,p2i32,p3i32);
 /******/ 					},
-/******/ 					"__widl_f_tex_image_2d_with_u32_and_u32_and_html_image_element_WebGL2RenderingContext": function(p0i32,p1i32,p2i32,p3i32,p4i32,p5i32,p6i32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_tex_image_2d_with_u32_and_u32_and_html_image_element_WebGL2RenderingContext"](p0i32,p1i32,p2i32,p3i32,p4i32,p5i32,p6i32);
+/******/ 					"__widl_f_tex_image_2d_with_u32_and_u32_and_image_WebGLRenderingContext": function(p0i32,p1i32,p2i32,p3i32,p4i32,p5i32,p6i32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_tex_image_2d_with_u32_and_u32_and_image_WebGLRenderingContext"](p0i32,p1i32,p2i32,p3i32,p4i32,p5i32,p6i32);
 /******/ 					},
-/******/ 					"__widl_f_active_texture_WebGL2RenderingContext": function(p0i32,p1i32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_active_texture_WebGL2RenderingContext"](p0i32,p1i32);
+/******/ 					"__widl_f_active_texture_WebGLRenderingContext": function(p0i32,p1i32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_active_texture_WebGLRenderingContext"](p0i32,p1i32);
 /******/ 					},
-/******/ 					"__widl_f_attach_shader_WebGL2RenderingContext": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_attach_shader_WebGL2RenderingContext"](p0i32,p1i32,p2i32);
+/******/ 					"__widl_f_attach_shader_WebGLRenderingContext": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_attach_shader_WebGLRenderingContext"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__widl_f_bind_buffer_WebGL2RenderingContext": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_bind_buffer_WebGL2RenderingContext"](p0i32,p1i32,p2i32);
+/******/ 					"__widl_f_bind_buffer_WebGLRenderingContext": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_bind_buffer_WebGLRenderingContext"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__widl_f_bind_texture_WebGL2RenderingContext": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_bind_texture_WebGL2RenderingContext"](p0i32,p1i32,p2i32);
+/******/ 					"__widl_f_bind_texture_WebGLRenderingContext": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_bind_texture_WebGLRenderingContext"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__widl_f_blend_func_WebGL2RenderingContext": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_blend_func_WebGL2RenderingContext"](p0i32,p1i32,p2i32);
+/******/ 					"__widl_f_blend_func_WebGLRenderingContext": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_blend_func_WebGLRenderingContext"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__widl_f_clear_WebGL2RenderingContext": function(p0i32,p1i32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_clear_WebGL2RenderingContext"](p0i32,p1i32);
+/******/ 					"__widl_f_clear_WebGLRenderingContext": function(p0i32,p1i32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_clear_WebGLRenderingContext"](p0i32,p1i32);
 /******/ 					},
-/******/ 					"__widl_f_clear_color_WebGL2RenderingContext": function(p0i32,p1f32,p2f32,p3f32,p4f32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_clear_color_WebGL2RenderingContext"](p0i32,p1f32,p2f32,p3f32,p4f32);
+/******/ 					"__widl_f_clear_color_WebGLRenderingContext": function(p0i32,p1f32,p2f32,p3f32,p4f32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_clear_color_WebGLRenderingContext"](p0i32,p1f32,p2f32,p3f32,p4f32);
 /******/ 					},
-/******/ 					"__widl_f_clear_depth_WebGL2RenderingContext": function(p0i32,p1f32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_clear_depth_WebGL2RenderingContext"](p0i32,p1f32);
+/******/ 					"__widl_f_clear_depth_WebGLRenderingContext": function(p0i32,p1f32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_clear_depth_WebGLRenderingContext"](p0i32,p1f32);
 /******/ 					},
-/******/ 					"__widl_f_compile_shader_WebGL2RenderingContext": function(p0i32,p1i32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_compile_shader_WebGL2RenderingContext"](p0i32,p1i32);
+/******/ 					"__widl_f_compile_shader_WebGLRenderingContext": function(p0i32,p1i32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_compile_shader_WebGLRenderingContext"](p0i32,p1i32);
 /******/ 					},
-/******/ 					"__widl_f_create_buffer_WebGL2RenderingContext": function(p0i32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_create_buffer_WebGL2RenderingContext"](p0i32);
+/******/ 					"__widl_f_create_buffer_WebGLRenderingContext": function(p0i32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_create_buffer_WebGLRenderingContext"](p0i32);
 /******/ 					},
-/******/ 					"__widl_f_create_program_WebGL2RenderingContext": function(p0i32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_create_program_WebGL2RenderingContext"](p0i32);
+/******/ 					"__widl_f_create_program_WebGLRenderingContext": function(p0i32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_create_program_WebGLRenderingContext"](p0i32);
 /******/ 					},
-/******/ 					"__widl_f_create_shader_WebGL2RenderingContext": function(p0i32,p1i32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_create_shader_WebGL2RenderingContext"](p0i32,p1i32);
+/******/ 					"__widl_f_create_shader_WebGLRenderingContext": function(p0i32,p1i32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_create_shader_WebGLRenderingContext"](p0i32,p1i32);
 /******/ 					},
-/******/ 					"__widl_f_create_texture_WebGL2RenderingContext": function(p0i32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_create_texture_WebGL2RenderingContext"](p0i32);
+/******/ 					"__widl_f_create_texture_WebGLRenderingContext": function(p0i32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_create_texture_WebGLRenderingContext"](p0i32);
 /******/ 					},
-/******/ 					"__widl_f_depth_func_WebGL2RenderingContext": function(p0i32,p1i32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_depth_func_WebGL2RenderingContext"](p0i32,p1i32);
+/******/ 					"__widl_f_depth_func_WebGLRenderingContext": function(p0i32,p1i32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_depth_func_WebGLRenderingContext"](p0i32,p1i32);
 /******/ 					},
-/******/ 					"__widl_f_draw_arrays_WebGL2RenderingContext": function(p0i32,p1i32,p2i32,p3i32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_draw_arrays_WebGL2RenderingContext"](p0i32,p1i32,p2i32,p3i32);
+/******/ 					"__widl_f_draw_arrays_WebGLRenderingContext": function(p0i32,p1i32,p2i32,p3i32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_draw_arrays_WebGLRenderingContext"](p0i32,p1i32,p2i32,p3i32);
 /******/ 					},
-/******/ 					"__widl_f_enable_WebGL2RenderingContext": function(p0i32,p1i32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_enable_WebGL2RenderingContext"](p0i32,p1i32);
+/******/ 					"__widl_f_enable_WebGLRenderingContext": function(p0i32,p1i32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_enable_WebGLRenderingContext"](p0i32,p1i32);
 /******/ 					},
-/******/ 					"__widl_f_enable_vertex_attrib_array_WebGL2RenderingContext": function(p0i32,p1i32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_enable_vertex_attrib_array_WebGL2RenderingContext"](p0i32,p1i32);
+/******/ 					"__widl_f_enable_vertex_attrib_array_WebGLRenderingContext": function(p0i32,p1i32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_enable_vertex_attrib_array_WebGLRenderingContext"](p0i32,p1i32);
 /******/ 					},
-/******/ 					"__widl_f_get_program_info_log_WebGL2RenderingContext": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_get_program_info_log_WebGL2RenderingContext"](p0i32,p1i32,p2i32);
+/******/ 					"__widl_f_get_program_info_log_WebGLRenderingContext": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_get_program_info_log_WebGLRenderingContext"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__widl_f_get_program_parameter_WebGL2RenderingContext": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_get_program_parameter_WebGL2RenderingContext"](p0i32,p1i32,p2i32);
+/******/ 					"__widl_f_get_program_parameter_WebGLRenderingContext": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_get_program_parameter_WebGLRenderingContext"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__widl_f_get_shader_info_log_WebGL2RenderingContext": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_get_shader_info_log_WebGL2RenderingContext"](p0i32,p1i32,p2i32);
+/******/ 					"__widl_f_get_shader_info_log_WebGLRenderingContext": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_get_shader_info_log_WebGLRenderingContext"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__widl_f_get_shader_parameter_WebGL2RenderingContext": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_get_shader_parameter_WebGL2RenderingContext"](p0i32,p1i32,p2i32);
+/******/ 					"__widl_f_get_shader_parameter_WebGLRenderingContext": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_get_shader_parameter_WebGLRenderingContext"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__widl_f_get_uniform_location_WebGL2RenderingContext": function(p0i32,p1i32,p2i32,p3i32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_get_uniform_location_WebGL2RenderingContext"](p0i32,p1i32,p2i32,p3i32);
+/******/ 					"__widl_f_get_uniform_location_WebGLRenderingContext": function(p0i32,p1i32,p2i32,p3i32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_get_uniform_location_WebGLRenderingContext"](p0i32,p1i32,p2i32,p3i32);
 /******/ 					},
-/******/ 					"__widl_f_link_program_WebGL2RenderingContext": function(p0i32,p1i32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_link_program_WebGL2RenderingContext"](p0i32,p1i32);
+/******/ 					"__widl_f_link_program_WebGLRenderingContext": function(p0i32,p1i32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_link_program_WebGLRenderingContext"](p0i32,p1i32);
 /******/ 					},
-/******/ 					"__widl_f_pixel_storei_WebGL2RenderingContext": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_pixel_storei_WebGL2RenderingContext"](p0i32,p1i32,p2i32);
+/******/ 					"__widl_f_pixel_storei_WebGLRenderingContext": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_pixel_storei_WebGLRenderingContext"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__widl_f_shader_source_WebGL2RenderingContext": function(p0i32,p1i32,p2i32,p3i32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_shader_source_WebGL2RenderingContext"](p0i32,p1i32,p2i32,p3i32);
+/******/ 					"__widl_f_shader_source_WebGLRenderingContext": function(p0i32,p1i32,p2i32,p3i32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_shader_source_WebGLRenderingContext"](p0i32,p1i32,p2i32,p3i32);
 /******/ 					},
-/******/ 					"__widl_f_tex_parameteri_WebGL2RenderingContext": function(p0i32,p1i32,p2i32,p3i32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_tex_parameteri_WebGL2RenderingContext"](p0i32,p1i32,p2i32,p3i32);
+/******/ 					"__widl_f_tex_parameteri_WebGLRenderingContext": function(p0i32,p1i32,p2i32,p3i32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_tex_parameteri_WebGLRenderingContext"](p0i32,p1i32,p2i32,p3i32);
 /******/ 					},
-/******/ 					"__widl_f_uniform1f_WebGL2RenderingContext": function(p0i32,p1i32,p2f32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_uniform1f_WebGL2RenderingContext"](p0i32,p1i32,p2f32);
+/******/ 					"__widl_f_uniform1f_WebGLRenderingContext": function(p0i32,p1i32,p2f32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_uniform1f_WebGLRenderingContext"](p0i32,p1i32,p2f32);
 /******/ 					},
-/******/ 					"__widl_f_uniform2f_WebGL2RenderingContext": function(p0i32,p1i32,p2f32,p3f32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_uniform2f_WebGL2RenderingContext"](p0i32,p1i32,p2f32,p3f32);
+/******/ 					"__widl_f_uniform2f_WebGLRenderingContext": function(p0i32,p1i32,p2f32,p3f32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_uniform2f_WebGLRenderingContext"](p0i32,p1i32,p2f32,p3f32);
 /******/ 					},
-/******/ 					"__widl_f_use_program_WebGL2RenderingContext": function(p0i32,p1i32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_use_program_WebGL2RenderingContext"](p0i32,p1i32);
+/******/ 					"__widl_f_use_program_WebGLRenderingContext": function(p0i32,p1i32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_use_program_WebGLRenderingContext"](p0i32,p1i32);
 /******/ 					},
-/******/ 					"__widl_f_vertex_attrib_pointer_with_i32_WebGL2RenderingContext": function(p0i32,p1i32,p2i32,p3i32,p4i32,p5i32,p6i32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_vertex_attrib_pointer_with_i32_WebGL2RenderingContext"](p0i32,p1i32,p2i32,p3i32,p4i32,p5i32,p6i32);
+/******/ 					"__widl_f_vertex_attrib_pointer_with_i32_WebGLRenderingContext": function(p0i32,p1i32,p2i32,p3i32,p4i32,p5i32,p6i32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_vertex_attrib_pointer_with_i32_WebGLRenderingContext"](p0i32,p1i32,p2i32,p3i32,p4i32,p5i32,p6i32);
 /******/ 					},
-/******/ 					"__widl_f_viewport_WebGL2RenderingContext": function(p0i32,p1i32,p2i32,p3i32,p4i32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_viewport_WebGL2RenderingContext"](p0i32,p1i32,p2i32,p3i32,p4i32);
+/******/ 					"__widl_f_viewport_WebGLRenderingContext": function(p0i32,p1i32,p2i32,p3i32,p4i32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_viewport_WebGLRenderingContext"](p0i32,p1i32,p2i32,p3i32,p4i32);
 /******/ 					},
 /******/ 					"__widl_instanceof_Window": function(p0i32) {
 /******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_instanceof_Window"](p0i32);
@@ -240,9 +240,6 @@
 /******/ 					},
 /******/ 					"__widl_f_document_Window": function(p0i32) {
 /******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_document_Window"](p0i32);
-/******/ 					},
-/******/ 					"__widl_f_log_1_": function(p0i32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_log_1_"](p0i32);
 /******/ 					},
 /******/ 					"__wbg_newnoargs_368b05293a3f44de": function(p0i32,p1i32) {
 /******/ 						return installedModules["./pkg/reactor.js"].exports["__wbg_newnoargs_368b05293a3f44de"](p0i32,p1i32);
@@ -286,14 +283,14 @@
 /******/ 					"__wbindgen_memory": function() {
 /******/ 						return installedModules["./pkg/reactor.js"].exports["__wbindgen_memory"]();
 /******/ 					},
-/******/ 					"__wbindgen_closure_wrapper747": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__wbindgen_closure_wrapper747"](p0i32,p1i32,p2i32);
+/******/ 					"__wbindgen_closure_wrapper744": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__wbindgen_closure_wrapper744"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__wbindgen_closure_wrapper751": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__wbindgen_closure_wrapper751"](p0i32,p1i32,p2i32);
+/******/ 					"__wbindgen_closure_wrapper742": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__wbindgen_closure_wrapper742"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__wbindgen_closure_wrapper749": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__wbindgen_closure_wrapper749"](p0i32,p1i32,p2i32);
+/******/ 					"__wbindgen_closure_wrapper740": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__wbindgen_closure_wrapper740"](p0i32,p1i32,p2i32);
 /******/ 					}
 /******/ 				}
 /******/ 			};
@@ -396,7 +393,7 @@
 /******/ 				promises.push(installedWasmModuleData);
 /******/ 			else {
 /******/ 				var importObject = wasmImportObjects[wasmModuleId]();
-/******/ 				var req = fetch(__webpack_require__.p + "" + {"./pkg/reactor_bg.wasm":"460e6fbbff47b1c66f43"}[wasmModuleId] + ".module.wasm");
+/******/ 				var req = fetch(__webpack_require__.p + "" + {"./pkg/reactor_bg.wasm":"87a614623ffa3c398328"}[wasmModuleId] + ".module.wasm");
 /******/ 				var promise;
 /******/ 				if(importObject instanceof Promise && typeof WebAssembly.compileStreaming === 'function') {
 /******/ 					promise = Promise.all([WebAssembly.compileStreaming(req), importObject]).then(function(items) {
