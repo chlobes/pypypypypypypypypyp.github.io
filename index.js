@@ -241,6 +241,9 @@
 /******/ 					"__widl_f_document_Window": function(p0i32) {
 /******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_document_Window"](p0i32);
 /******/ 					},
+/******/ 					"__widl_f_log_1_": function(p0i32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__widl_f_log_1_"](p0i32);
+/******/ 					},
 /******/ 					"__wbg_newnoargs_368b05293a3f44de": function(p0i32,p1i32) {
 /******/ 						return installedModules["./pkg/reactor.js"].exports["__wbg_newnoargs_368b05293a3f44de"](p0i32,p1i32);
 /******/ 					},
@@ -283,14 +286,14 @@
 /******/ 					"__wbindgen_memory": function() {
 /******/ 						return installedModules["./pkg/reactor.js"].exports["__wbindgen_memory"]();
 /******/ 					},
-/******/ 					"__wbindgen_closure_wrapper757": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__wbindgen_closure_wrapper757"](p0i32,p1i32,p2i32);
+/******/ 					"__wbindgen_closure_wrapper762": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__wbindgen_closure_wrapper762"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__wbindgen_closure_wrapper759": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__wbindgen_closure_wrapper759"](p0i32,p1i32,p2i32);
+/******/ 					"__wbindgen_closure_wrapper764": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__wbindgen_closure_wrapper764"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__wbindgen_closure_wrapper761": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["./pkg/reactor.js"].exports["__wbindgen_closure_wrapper761"](p0i32,p1i32,p2i32);
+/******/ 					"__wbindgen_closure_wrapper760": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["./pkg/reactor.js"].exports["__wbindgen_closure_wrapper760"](p0i32,p1i32,p2i32);
 /******/ 					}
 /******/ 				}
 /******/ 			};
@@ -393,7 +396,7 @@
 /******/ 				promises.push(installedWasmModuleData);
 /******/ 			else {
 /******/ 				var importObject = wasmImportObjects[wasmModuleId]();
-/******/ 				var req = fetch(__webpack_require__.p + "" + {"./pkg/reactor_bg.wasm":"30b7b36fca86d796808e"}[wasmModuleId] + ".module.wasm");
+/******/ 				var req = fetch(__webpack_require__.p + "" + {"./pkg/reactor_bg.wasm":"9dc152af6b8bf84666ac"}[wasmModuleId] + ".module.wasm");
 /******/ 				var promise;
 /******/ 				if(importObject instanceof Promise && typeof WebAssembly.compileStreaming === 'function') {
 /******/ 					promise = Promise.all([WebAssembly.compileStreaming(req), importObject]).then(function(items) {
